@@ -1,18 +1,18 @@
 {
   "name": "cra-template-hmm-base",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "keywords": [
     "react",
     "create-react-app",
     "template",
-    "hmm-base"
+    "hmm-base",
+    "cra-template-hmm-base"
   ],
   "description": "The base template for Create React App.",
   "main": "template.json",
   "repository": {
     "type": "git",
-    "url": "https://github.com/HiagoMM/react-hmm-template.git",
-    "directory": "/"
+    "url": "https://github.com/HiagoMM/react-hmm-template.git"
   },
   "license": "MIT",
   "engines": {

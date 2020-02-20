@@ -6,10 +6,7 @@ const useLoginStyles = makeStyles(theme => ({
     height: "100vh",
     display: "flex",
     justifyContent: "center",
-    alignItems: "center",
-    backgroundImage: `url(${require("../../../assets/background.png")})`,
-    backgroundPosition: "100% 100%",
-    backgroundRepeat: "no-repeat"
+    alignItems: "center"
   },
   loginContainer: {
     width: "25rem",
